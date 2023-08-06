@@ -16,7 +16,7 @@ import {
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/kalkututor">
       <div className="App">
         <Header />
         <Routes>
