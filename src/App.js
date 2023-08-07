@@ -10,21 +10,23 @@ import {
   BrowserRouter,
   Routes
 } from "react-router-dom";
-
+import { ChakraProvider } from '@chakra-ui/react'
+import Home from './Home';
 
 
 function App() {
 
   return (
     <BrowserRouter basename="/kalkututor">
-      <div className="App">
-        <Header />
+      <ChakraProvider>
+        <Home/>
+        {/* <Header />
         <Routes>
         <Route path="/" element={<Screenshots/>}/>
         <Route path="privacy-policy" element={<PrivacyPolicy/>}/>
         </Routes>
-        <Footer />
-      </div>
+        <Footer /> */}
+        </ChakraProvider>
       </BrowserRouter>
   );
 }
