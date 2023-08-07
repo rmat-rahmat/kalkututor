@@ -7,7 +7,8 @@
   <body>
     <script>
       // Redirect all 404s to the index.html and let React Router handle the routing
-      window.location.replace('/kalkututor');
+      const path = window.location.pathname.replace(/^\/kalkututor(\/|$)/, '/');
+      window.location.replace(`/kalkututor/index.html#${path}`);
     </script>
   </body>
 </html>
