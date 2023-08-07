@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/kalkututor/static/css/main.659c7fdb.css",
-    "main.js": "/kalkututor/static/js/main.d7e9d3cc.js",
+    "main.css": "/kalkututor/static/css/main.521faa27.css",
+    "main.js": "/kalkututor/static/js/main.51654bfd.js",
     "static/js/787.07d81c35.chunk.js": "/kalkututor/static/js/787.07d81c35.chunk.js",
+    "static/media/IMG_1985.PNG": "/kalkututor/static/media/IMG_1985.4aded74f4cb6b4ffff60.PNG",
     "static/media/IMG_1987.PNG": "/kalkututor/static/media/IMG_1987.296afb41a7f4af12e6f7.PNG",
     "static/media/IMG_1984.PNG": "/kalkututor/static/media/IMG_1984.3470ad0d645de13f7b6e.PNG",
+    "static/media/iconDarker.png": "/kalkututor/static/media/iconDarker.334884f2b9f586af3dae.png",
     "index.html": "/kalkututor/index.html",
-    "main.659c7fdb.css.map": "/kalkututor/static/css/main.659c7fdb.css.map",
-    "main.d7e9d3cc.js.map": "/kalkututor/static/js/main.d7e9d3cc.js.map",
+    "main.521faa27.css.map": "/kalkututor/static/css/main.521faa27.css.map",
+    "main.51654bfd.js.map": "/kalkututor/static/js/main.51654bfd.js.map",
     "787.07d81c35.chunk.js.map": "/kalkututor/static/js/787.07d81c35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.659c7fdb.css",
-    "static/js/main.d7e9d3cc.js"
+    "static/css/main.521faa27.css",
+    "static/js/main.51654bfd.js"
   ]
 }
