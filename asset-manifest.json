@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kalkututor/static/css/main.521faa27.css",
-    "main.js": "/kalkututor/static/js/main.1c691dff.js",
+    "main.js": "/kalkututor/static/js/main.8c0ed799.js",
     "static/js/787.07d81c35.chunk.js": "/kalkututor/static/js/787.07d81c35.chunk.js",
     "static/media/IMG_1985.PNG": "/kalkututor/static/media/IMG_1985.4aded74f4cb6b4ffff60.PNG",
     "static/media/IMG_1987.PNG": "/kalkututor/static/media/IMG_1987.296afb41a7f4af12e6f7.PNG",
@@ -9,11 +9,11 @@
     "static/media/iconDarker.png": "/kalkututor/static/media/iconDarker.334884f2b9f586af3dae.png",
     "index.html": "/kalkututor/index.html",
     "main.521faa27.css.map": "/kalkututor/static/css/main.521faa27.css.map",
-    "main.1c691dff.js.map": "/kalkututor/static/js/main.1c691dff.js.map",
+    "main.8c0ed799.js.map": "/kalkututor/static/js/main.8c0ed799.js.map",
     "787.07d81c35.chunk.js.map": "/kalkututor/static/js/787.07d81c35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.521faa27.css",
-    "static/js/main.1c691dff.js"
+    "static/js/main.8c0ed799.js"
   ]
 }
